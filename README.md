@@ -6,7 +6,7 @@ Estou em transição de carreira para a tecnologia, focando na construção de s
 
 ---
 
-> "Quero criar soluções eficientes que façam negócios crescerem, com softwares, dados e IA."
+> "busco construir soluções tecnicamente robustas que transformam dados em valor, mantendo-me em constante aprendizado."
 
 ---
 
@@ -21,8 +21,9 @@ Estou em transição de carreira para a tecnologia, focando na construção de s
 ---
 
 ### 4. 📊 Estatísticas do GitHub
+<!-- https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=minimalist --->
 ![Status do GitHub](https://github-readme-stats.vercel.app/api?username=ojotabe&show_icons=true&theme=minimalist)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=minimalist)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ojotabe&layout=compact&theme=minimalist)
 
 ---
 
