@@ -1,4 +1,3 @@
-## Hi there 👋
 # Olá, eu sou Jordan (ou Jotabê) 👋
 
 ### Python Backend Developer | Software Engineering Student
@@ -13,6 +12,8 @@ Estou em transição de carreira para a tecnologia, focando na construção de s
 
 ### 3. 🛠️ Tecnologias e Estudos
 - **Linguagem Principal:** Python 🐍
+<img width="50" height="326" alt="image" src="https://github.com/user-attachments/assets/d9c07be9-2b22-452d-a23b-a0e6c9220b5f" />
+
 - **Web & APIs:** FastAPI (estudando)
 - **Dados & IA:** Machine Learning (Pós-Tech na FIAP)
 - **Fundamentos:** Engenharia de Software
@@ -20,13 +21,13 @@ Estou em transição de carreira para a tecnologia, focando na construção de s
 ---
 
 ### 4. 📊 Estatísticas do GitHub
-![Status do GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=minimalist)
+![Status do GitHub](https://github-readme-stats.vercel.app/api?username=ojotabe&show_icons=true&theme=minimalist)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=minimalist)
 
 ---
 
 ### 5. 📫 Vamos nos conectar?
-- [LinkedIn]([https://www.linkedin.com/in/SEU-PERFIL](https://www.linkedin.com/in/jordanbprado/)) - Vamos conversar sobre tecnologia e oportunidades!
+- [LinkedIn](https://www.linkedin.com/in/jordanbprado/) - Vamos conversar sobre tecnologia e oportunidades!
 <!--
 **ojotabe/ojotabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
