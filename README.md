@@ -17,14 +17,19 @@ Estou em transição de carreira para a tecnologia, focando na construção de s
 - **Web & APIs:** FastAPI (estudando)
 - **Dados & IA:** Machine Learning (Pós-Tech na FIAP)
 - **Fundamentos:** Engenharia de Software
-
----
+  
+### 🛠️ Tecnologias e Estudos
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Software Engineering](https://img.shields.io/badge/Software_Engineering-000000?style=for-the-badge&logo=github&logoColor=white)
+<!--  ---
 
 ### 4. 📊 Estatísticas do GitHub
-<!-- https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=minimalist --->
+https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=minimalist 
 ![Status do GitHub](https://github-readme-stats.vercel.app/api?username=ojotabe&show_icons=true&theme=minimalist)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ojotabe&layout=compact&theme=minimalist)
-
+--->
 ---
 
 ### 5. 📫 Vamos nos conectar?
