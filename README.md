@@ -1,50 +1,41 @@
-# Olá, eu sou Jordan (ou Jotabê) 👋
+# Olá, eu sou o Jordan 👋
 
-### Python Backend Developer | Software Engineering Student
+### Engenheiro de dados | Desenvolvedor Backend Python
 
-Estou em transição de carreira para a tecnologia, focando na construção de sistemas robustos e escaláveis com Python. Atualmente, aprofundo meus conhecimentos em Engenharia de Software e Inteligência Artificial.
+Com uma trajetória consolidada de mais de uma década no setor público, estou em transição de carreira para a área de tecnologia. Possuo um perfil generalista que me permite ter uma visão sistêmica dos projetos, e meu foco atual está na construção de sistemas escaláveis e na aplicação de Inteligência Artificial para resolver problemas complexos.
+
+🎓 **Formação:**
+- Pós-Tech em Machine Learning Engineering (FIAP)
+- Pós-graduação em Data Science e Analytics
+- Graduação em Análise e Desenvolvimento de Sistemas (Universidade Presbiteriana Mackenzie)
+
+> *"Busco construir soluções tecnicamente robustas que transformam dados em valor, mantendo-me em constante aprendizado."*
 
 ---
 
-> "busco construir soluções tecnicamente robustas que transformam dados em valor, mantendo-me em constante aprendizado."
+### 🛠️ Tecnologias e Ferramentas
 
----
-
-### 3. 🛠️ Tecnologias e Estudos
-- **Linguagem Principal:** Python 🐍
-<img width="50" height="326" alt="image" src="https://github.com/user-attachments/assets/d9c07be9-2b22-452d-a23b-a0e6c9220b5f" />
-
-- **Web & APIs:** FastAPI (estudando)
-- **Dados & IA:** Machine Learning (Pós-Tech na FIAP)
-- **Fundamentos:** Engenharia de Software
-  
-### 🛠️ Tecnologias e Estudos
+**Linguagens & APIs:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Software Engineering](https://img.shields.io/badge/Software_Engineering-000000?style=for-the-badge&logo=github&logoColor=white)
-<!--  ---
 
-### 4. 📊 Estatísticas do GitHub
-https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=minimalist 
-![Status do GitHub](https://github-readme-stats.vercel.app/api?username=ojotabe&show_icons=true&theme=minimalist)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ojotabe&layout=compact&theme=minimalist)
---->
+**Dados, IA & Infraestrutura:**
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Data Engineering](https://img.shields.io/badge/Data_Engineering-0052CC?style=for-the-badge&logo=apache&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 ---
 
-### 5. 📫 Vamos nos conectar?
-- [LinkedIn](https://www.linkedin.com/in/jordanbprado/) - Vamos conversar sobre tecnologia e oportunidades!
-<!--
-**ojotabe/ojotabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Estatísticas do GitHub
 
-Here are some ideas to get you started:
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ojotabe&show_icons=true&theme=minimalist&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojotabe&layout=compact&theme=minimalist&hide_border=true" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordanbprado/)
